@@ -1,0 +1,7 @@
+{
+  "name": "GazpromChat",
+  "short_name": "GazChat",
+  "lang": "ru-RU",
+  "start_url": "/",
+  "display": "standalone"
+}
